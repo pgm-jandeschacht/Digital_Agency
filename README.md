@@ -7,4 +7,4 @@ First Project Pgm-1 2020-21 | Associate Degree in Computer Programming | Artevel
 | Firstname | Jan                              |
 | Lastname  | Deschacht                        |
 | Gender    | :male_sign:                      |
-| Email     | jan.desch@student.arteveldehs.be |
+| Email     | jandesch@student.arteveldehs.be |
